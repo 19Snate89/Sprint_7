@@ -1,6 +1,15 @@
 from faker import Faker
 import random
 
+class StaticData:
+
+
+    COURIER = {
+        "already_exist": "Этот логин уже используется. Попробуйте другой.",
+        "wrong_data": "Недостаточно данных для входа",
+        "invalid_logpass": "Учетная запись не найдена"
+    }
+
 class Generator:
 
     def generate_auth_data(self):

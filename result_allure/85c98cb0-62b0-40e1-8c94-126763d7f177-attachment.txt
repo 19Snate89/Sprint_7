@@ -1,0 +1,5 @@
+13:32:40 INFO Запрос POST направлен на https://qa-scooter.praktikum-services.ru/api/v1/courier/login 
+Данные запроса login=Rmbjwooljd&password=ghkqfjmyxn 
+Ответный статус код 404 
+Ответ{"code":404,"message":"Учетная запись не найдена"} 
+Ответ заголовка {'Access-Control-Allow-Origin': '*', 'Content-Length': '72', 'Content-Type': 'application/json; charset=utf-8', 'Date': 'Wed, 05 Jun 2024 10:32:40 GMT', 'ETag': 'W/"48-SNOWaDub1LGYtleYI6ITphu8xIQ"', 'Set-Cookie': '_yasc=j9OQJ7zb7B0OxfG2vg3HzLUmKn6cm7FSVtNRZDlTvhYBjXc2AsNdjpXp/bmfVcK+; domain=.praktikum-services.ru; path=/; expires=Sat, 03 Jun 2034 10:32:40 GMT; secure', 'X-Powered-By': 'Express', 'X-Request-Id': '1717583560440799-8986479988655974495'}

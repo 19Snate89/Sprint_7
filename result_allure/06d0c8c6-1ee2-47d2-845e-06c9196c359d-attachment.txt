@@ -1,0 +1,10 @@
+13:32:39 INFO Запрос POST направлен на https://qa-scooter.praktikum-services.ru/api/v1/courier 
+Данные запроса login=judy46&password=M3oy%24%28%28k%28v&firstName=Samantha 
+Ответный статус код 201 
+Ответ{"ok":true} 
+Ответ заголовка {'Access-Control-Allow-Origin': '*', 'Content-Length': '11', 'Content-Type': 'application/json; charset=utf-8', 'Date': 'Wed, 05 Jun 2024 10:32:39 GMT', 'ETag': 'W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"', 'Set-Cookie': '_yasc=rw57IewUkdTtFLB6jC9EWWZoVlBrhAMyan8LJi4d3aH5ukecCmcSuKBBUcUU42mKKg==; domain=.praktikum-services.ru; path=/; expires=Sat, 03 Jun 2034 10:32:39 GMT; secure', 'X-Powered-By': 'Express', 'X-Request-Id': '1717583559569362-17968589149295319655'}
+13:32:39 INFO Запрос POST направлен на https://qa-scooter.praktikum-services.ru/api/v1/courier 
+Данные запроса login=judy46&password=M3oy%24%28%28k%28v 
+Ответный статус код 409 
+Ответ{"code":409,"message":"Этот логин уже используется. Попробуйте другой."} 
+Ответ заголовка {'Access-Control-Allow-Origin': '*', 'Content-Length': '112', 'Content-Type': 'application/json; charset=utf-8', 'Date': 'Wed, 05 Jun 2024 10:32:39 GMT', 'ETag': 'W/"70-sLG1ZktNk+Ab3iaKUMwxkdL4FJo"', 'Set-Cookie': '_yasc=xeOPu193OhuFsch/N/kT2Xwi8xQbnN7yhbxg21yKB2Ej838NgvloTeAdvru+qcZx; domain=.praktikum-services.ru; path=/; expires=Sat, 03 Jun 2034 10:32:39 GMT; secure', 'X-Powered-By': 'Express', 'X-Request-Id': '1717583559650884-5158666043571223014'}

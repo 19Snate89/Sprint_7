@@ -1,0 +1,10 @@
+13:32:39 INFO Запрос POST направлен на https://qa-scooter.praktikum-services.ru/api/v1/courier 
+Данные запроса login=amanda22&password=2rqxYJ8j%23Z&firstName=Michael 
+Ответный статус код 201 
+Ответ{"ok":true} 
+Ответ заголовка {'Access-Control-Allow-Origin': '*', 'Content-Length': '11', 'Content-Type': 'application/json; charset=utf-8', 'Date': 'Wed, 05 Jun 2024 10:32:39 GMT', 'ETag': 'W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"', 'Set-Cookie': '_yasc=xnw+GsFIT1KOqPuy6uNm9lu4sJBhXWoWKym1OP1ZkSkAbmqsDWn2dk7KjqUT1qEO; domain=.praktikum-services.ru; path=/; expires=Sat, 03 Jun 2034 10:32:39 GMT; secure', 'X-Powered-By': 'Express', 'X-Request-Id': '1717583559841000-8335899647605861712'}
+13:32:39 INFO Запрос POST направлен на https://qa-scooter.praktikum-services.ru/api/v1/courier/login 
+Данные запроса login=amanda22&password=2rqxYJ8j%23Z 
+Ответный статус код 200 
+Ответ{"id":325845} 
+Ответ заголовка {'Access-Control-Allow-Origin': '*', 'Content-Length': '13', 'Content-Type': 'application/json; charset=utf-8', 'Date': 'Wed, 05 Jun 2024 10:32:39 GMT', 'ETag': 'W/"d-3LTuca7OhG0KwtysfE8mmXxVJko"', 'Set-Cookie': '_yasc=Ch+U7KK1L1csI4JYP7RHc09CKlwnh+ugULpLNjb5f1/o0hnWaO0dtX9bZPCoCcHluA==; domain=.praktikum-services.ru; path=/; expires=Sat, 03 Jun 2034 10:32:39 GMT; secure', 'X-Powered-By': 'Express', 'X-Request-Id': '1717583559936985-13729203464832837127'}

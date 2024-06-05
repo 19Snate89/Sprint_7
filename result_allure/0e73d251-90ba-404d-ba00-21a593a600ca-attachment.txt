@@ -1,5 +1,0 @@
-17:19:14 [32mINFO[0m Запрос POST направлен на https://qa-scooter.praktikum-services.ru/api/v1/courier/login 
-Данные запроса login=&password= 
-Ответный статус код 400 
-Ответ{"code":400,"message":"Недостаточно данных для входа"} 
-Ответ заголовка {'Access-Control-Allow-Origin': '*', 'Content-Length': '80', 'Content-Type': 'application/json; charset=utf-8', 'Date': 'Fri, 31 May 2024 14:19:14 GMT', 'ETag': 'W/"50-LwGSJxcCDIE8JNxAo8HI82cPc8A"', 'Set-Cookie': '_yasc=LlaVu4zRizOpWSI2X7dmpY9YHuMlua1ePuGFtxS12WBQ+bY2vLTXwbR/yMYfVmzlyQ==; domain=.praktikum-services.ru; path=/; expires=Mon, 29 May 2034 14:19:14 GMT; secure', 'X-Powered-By': 'Express', 'X-Request-Id': '1717165154154284-17544918141734177671'}

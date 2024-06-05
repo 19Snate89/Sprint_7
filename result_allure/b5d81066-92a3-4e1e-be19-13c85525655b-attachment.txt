@@ -1,5 +1,0 @@
-17:19:13 [32mINFO[0m Запрос POST направлен на https://qa-scooter.praktikum-services.ru/api/v1/courier 
-Данные запроса login=murraydaniel&password=%264%21%21X%29hofn&firstName=Felicia 
-Ответный статус код 201 
-Ответ{"ok":true} 
-Ответ заголовка {'Access-Control-Allow-Origin': '*', 'Content-Length': '11', 'Content-Type': 'application/json; charset=utf-8', 'Date': 'Fri, 31 May 2024 14:19:13 GMT', 'ETag': 'W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"', 'Set-Cookie': '_yasc=Aj52WV8rq7X9MFIQ3AHtw7gGtZfs8P0uhWkPfigBgRBFx47yt7zQM8YeJ5qt6LKedg==; domain=.praktikum-services.ru; path=/; expires=Mon, 29 May 2034 14:19:13 GMT; secure', 'X-Powered-By': 'Express', 'X-Request-Id': '1717165153459157-17272854090443988654'}
